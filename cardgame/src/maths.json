@@ -1,86 +1,86 @@
 [
   {
     "id": 1,
-    "name": "SpongeBob",
+    "name": "Rationals",
     "image": "http://www1.ccs.k12.in.us/uploads/0002/6704/Math.jpg",
-    "occupation": "Fry Cook",
-    "location": "A Pineapple Under the Sea"
+    "occupation": "Represent Portions",
+    "location": "Pies and Pizzas"
   },
   {
     "id": 2,
-    "name": "Mr. Krabs",
+    "name": "Integers",
     "image": "https://www.rd.com/wp-content/uploads/2017/09/01-Can-You-Pass-This-Elementary-School-Math-Test--760x506.jpg",
-    "occupation": "Restaurant Owner",
-    "location": "A Giant Anchor"
+    "occupation": "Counting up and down",
+    "location": "Near Sea Level"
   },
   {
     "id": 3,
-    "name": "Squidward",
+    "name": "Variables",
     "image": "https://farm9.staticflickr.com/8809/17708287553_af813f85e9_o.png",
-    "occupation": "Cashier",
-    "location": "An Easter Island Head"
+    "occupation": "I can be what you want me to be",
+    "location": "Where you least expect us"
   },
   {
     "id": 4,
-    "name": "Dexter",
+    "name": "Shapes",
     "image": "http://www.edu.gov.mb.ca/k12/cur/math/images/math.jpg",
-    "occupation": "Boy Genius",
-    "location": "A Secret Laboratory"
+    "occupation": "Construction",
+    "location": "We like the city"
   },
   {
     "id": 5,
-    "name": "Courage",
+    "name": "Limits",
     "image": "https://t3.ftcdn.net/jpg/00/81/71/02/240_F_81710217_Im3dZa7L6wFpRjMRDqmG4MDCqbrwtiO1.jpg",
-    "occupation": "A Cowardly Dog",
-    "location": "Nowhere, Kansas"
+    "occupation": "Driving from east to west",
+    "location": "Nomadic existence"
   },
   {
     "id": 6,
-    "name": "Doug Funnie",
+    "name": "Slope",
     "image": "http://p5cdn4static.sharpschool.com/UserFiles/Servers/Server_3170161/Image/math-wordle.jpg",
-    "occupation": "Student",
-    "location": "Bluffington"
+    "occupation": "Life Change Coach",
+    "location": "Guidance Office"
   },
   {
     "id": 7,
-    "name": "Bugs Bunny",
+    "name": "Area",
     "image": "http://blog.edx.org/wp-content/uploads/2016/04/Math-1.jpg",
-    "occupation": "Looney Toon",
-    "location": "A Rabbit Burrow"
+    "occupation": "King",
+    "location": "My dominion always increases"
   },
   {
     "id": 8,
-    "name": "Johnny Bravo",
+    "name": "Properties",
     "image": "http://australiantutoring.com.au/wp-content/uploads/2017/08/Math-Tutoring.png",
-    "occupation": "Ladies Man",
-    "location": "Aron City"
+    "occupation": "Officer",
+    "location": "City Hall"
   },
   {
     "id": 9,
-    "name": "Tommy Pickles",
+    "name": "Operator",
     "image": "https://www.tutoringandtestmastery.com/wp-content/uploads/2014/07/math.jpg",
-    "occupation": "Adventurer",
-    "location": "California"
+    "occupation": "I make things happen",
+    "location": "The Tracks"
   },
   {
     "id": 10,
-    "name": "Rocko",
+    "name": "Equal",
     "image": "https://thumbs.dreamstime.com/z/math-ball-sphere-numbers-addition-multiplication-d-data-to-illustrate-learning-accounting-mess-figures-36210265.jpg",
-    "occupation": "Cashier",
-    "location": "O-Town, California"
+    "occupation":"Judge",
+    "location": "Washington"
   },
   {
     "id": 11,
-    "name": "Captain Planet",
+    "name": "Measurement",
     "image": "http://img09.deviantart.net/05fb/i/2008/093/a/7/math_logo_by_avidlebon.jpg",
-    "occupation": "Superhero",
+    "occupation": "Engineer",
     "location": "Earth"
   },
   {
     "id": 12,
-    "name": "Ickis",
+    "name": "Counting",
     "image": "http://learningon.theloop.school.nz/moodle/pluginfile.php/68394/mod_page/content/21/Math%20logo.bmp",
-    "occupation": "Ahhhh! A Real Monster!",
-    "location": "Under a City Dump"
+    "occupation": "Banker",
+    "location": "Wall Street"
   }
 ]
