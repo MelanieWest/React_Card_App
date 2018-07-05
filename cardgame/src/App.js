@@ -18,7 +18,7 @@ handleRemove = id => {
 render() {
   return(
   <Wrapper>
-    <h1 className="title">Friends List</h1>
+    <h1 className="title">Maths List</h1>
     { this.state.friends.map(friend => 
       <FriendCard
         id = {friend.id}
