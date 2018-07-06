@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Rationals",
-    "image": "http://www1.ccs.k12.in.us/uploads/0002/6704/Math.jpg",
+    "image": "http://charlestongrit.com/sites/default/files/useruploads/math-1_0.jpg",
     "occupation": "Represent Portions",
     "location": "Pies and Pizzas"
   },
@@ -23,14 +23,14 @@
   {
     "id": 4,
     "name": "Shapes",
-    "image": "http://www.edu.gov.mb.ca/k12/cur/math/images/math.jpg",
+    "image": "https://t3.ftcdn.net/jpg/00/81/71/02/240_F_81710217_Im3dZa7L6wFpRjMRDqmG4MDCqbrwtiO1.jpg",
     "occupation": "Construction",
     "location": "We like the city"
   },
   {
     "id": 5,
     "name": "Limits",
-    "image": "https://t3.ftcdn.net/jpg/00/81/71/02/240_F_81710217_Im3dZa7L6wFpRjMRDqmG4MDCqbrwtiO1.jpg",
+    "image": "http://www.edu.gov.mb.ca/k12/cur/math/images/math.jpg",
     "occupation": "Driving from east to west",
     "location": "Nomadic existence"
   },
@@ -79,7 +79,7 @@
   {
     "id": 12,
     "name": "Counting",
-    "image": "http://learningon.theloop.school.nz/moodle/pluginfile.php/68394/mod_page/content/21/Math%20logo.bmp",
+    "image": "http://www1.ccs.k12.in.us/uploads/0002/6704/Math.jpg",
     "occupation": "Banker",
     "location": "Wall Street"
   }
