@@ -16,7 +16,7 @@
   {
     "id": 3,
     "name": "Variables",
-    "image": "https://farm9.staticflickr.com/8809/17708287553_af813f85e9_o.png",
+    "image": "http://p5cdn4static.sharpschool.com/UserFiles/Servers/Server_3170161/Image/math-wordle.jpg",
     "occupation": "I can be what you want me to be",
     "location": "Where you least expect us"
   },
@@ -37,7 +37,7 @@
   {
     "id": 6,
     "name": "Slope",
-    "image": "http://p5cdn4static.sharpschool.com/UserFiles/Servers/Server_3170161/Image/math-wordle.jpg",
+    "image": "https://farm9.staticflickr.com/8809/17708287553_af813f85e9_o.png",
     "occupation": "Life Change Coach",
     "location": "Guidance Office"
   },
@@ -65,7 +65,7 @@
   {
     "id": 10,
     "name": "Equal",
-    "image": "https://thumbs.dreamstime.com/z/math-ball-sphere-numbers-addition-multiplication-d-data-to-illustrate-learning-accounting-mess-figures-36210265.jpg",
+    "image": "http://www1.ccs.k12.in.us/uploads/0002/6704/Math.jpg",
     "occupation":"Judge",
     "location": "Washington"
   },
@@ -79,7 +79,7 @@
   {
     "id": 12,
     "name": "Counting",
-    "image": "http://www1.ccs.k12.in.us/uploads/0002/6704/Math.jpg",
+    "image": "https://thumbs.dreamstime.com/z/math-ball-sphere-numbers-addition-multiplication-d-data-to-illustrate-learning-accounting-mess-figures-36210265.jpg",
     "occupation": "Banker",
     "location": "Wall Street"
   }
