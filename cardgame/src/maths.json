@@ -16,7 +16,7 @@
   {
     "id": 3,
     "name": "Variables",
-    "image": "http://p5cdn4static.sharpschool.com/UserFiles/Servers/Server_3170161/Image/math-wordle.jpg",
+    "image": "http://australiantutoring.com.au/wp-content/uploads/2017/08/Math-Tutoring.png",
     "occupation": "I can be what you want me to be",
     "location": "Where you least expect us"
   },
@@ -51,21 +51,21 @@
   {
     "id": 8,
     "name": "Properties",
-    "image": "http://australiantutoring.com.au/wp-content/uploads/2017/08/Math-Tutoring.png",
+    "image": "http://p5cdn4static.sharpschool.com/UserFiles/Servers/Server_3170161/Image/math-wordle.jpg",
     "occupation": "Officer",
     "location": "City Hall"
   },
   {
     "id": 9,
     "name": "Operator",
-    "image": "https://www.tutoringandtestmastery.com/wp-content/uploads/2014/07/math.jpg",
+    "image": "http://www1.ccs.k12.in.us/uploads/0002/6704/Math.jpg",
     "occupation": "I make things happen",
     "location": "The Tracks"
   },
   {
     "id": 10,
     "name": "Equal",
-    "image": "http://www1.ccs.k12.in.us/uploads/0002/6704/Math.jpg",
+    "image": "https://www.tutoringandtestmastery.com/wp-content/uploads/2014/07/math.jpg",
     "occupation":"Judge",
     "location": "Washington"
   },
