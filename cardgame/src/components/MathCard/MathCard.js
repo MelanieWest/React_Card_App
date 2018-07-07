@@ -2,7 +2,7 @@ import React from "react";
 import "./MathCard.css";
 
 const MathCard = props => (
-  <div className="card">
+  <div className="card" value={props.key}>
     <div className="img-container">
       <img alt={props.name} src={props.image} />
     </div>
@@ -19,7 +19,7 @@ const MathCard = props => (
         </li>
       </ul>
     </div>
-    <span className="remove" onClick={() => props.handleRemove(props.id)}>𝘅</span>
+    <span className="update" onClick={() => props.handleClick(props.key)}>𝘅</span>
   </div>
 );
 

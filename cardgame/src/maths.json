@@ -4,83 +4,95 @@
     "name": "Rationals",
     "image": "http://charlestongrit.com/sites/default/files/useruploads/math-1_0.jpg",
     "occupation": "Represent Portions",
-    "location": "Pies and Pizzas"
+    "location": "Pies and Pizzas",
+    "selected": false
   },
   {
     "id": 2,
     "name": "Integers",
     "image": "https://www.rd.com/wp-content/uploads/2017/09/01-Can-You-Pass-This-Elementary-School-Math-Test--760x506.jpg",
     "occupation": "Counting up and down",
-    "location": "Near Sea Level"
+    "location": "Near Sea Level",
+    "selected": false
   },
   {
     "id": 3,
     "name": "Variables",
     "image": "http://australiantutoring.com.au/wp-content/uploads/2017/08/Math-Tutoring.png",
     "occupation": "I can be what you want me to be",
-    "location": "Where you least expect us"
+    "location": "Where you least expect us",
+    "selected": false
   },
   {
     "id": 4,
     "name": "Shapes",
     "image": "https://t3.ftcdn.net/jpg/00/81/71/02/240_F_81710217_Im3dZa7L6wFpRjMRDqmG4MDCqbrwtiO1.jpg",
     "occupation": "Construction",
-    "location": "We like the city"
+    "location": "We like the city",
+    "selected": false
   },
   {
     "id": 5,
     "name": "Limits",
     "image": "http://www.edu.gov.mb.ca/k12/cur/math/images/math.jpg",
     "occupation": "Driving from east to west",
-    "location": "Nomadic existence"
+    "location": "Nomadic existence",
+    "selected": false
   },
   {
     "id": 6,
     "name": "Slope",
     "image": "https://farm9.staticflickr.com/8809/17708287553_af813f85e9_o.png",
     "occupation": "Life Change Coach",
-    "location": "Guidance Office"
+    "location": "Guidance Office",
+    "selected": false
   },
   {
     "id": 7,
     "name": "Area",
     "image": "http://blog.edx.org/wp-content/uploads/2016/04/Math-1.jpg",
     "occupation": "King",
-    "location": "My dominion always increases"
+    "location": "My dominion always increases",
+    "selected": false
   },
   {
     "id": 8,
     "name": "Properties",
     "image": "http://p5cdn4static.sharpschool.com/UserFiles/Servers/Server_3170161/Image/math-wordle.jpg",
     "occupation": "Officer",
-    "location": "City Hall"
+    "location": "City Hall",
+    "selected": false
   },
   {
     "id": 9,
     "name": "Operator",
     "image": "http://www1.ccs.k12.in.us/uploads/0002/6704/Math.jpg",
     "occupation": "I make things happen",
-    "location": "The Tracks"
+    "location": "The Tracks",
+    "selected": false
   },
   {
     "id": 10,
     "name": "Equal",
     "image": "https://www.tutoringandtestmastery.com/wp-content/uploads/2014/07/math.jpg",
     "occupation":"Judge",
-    "location": "Washington"
+    "location": "Washington",
+    "selected": false
   },
   {
     "id": 11,
     "name": "Measurement",
     "image": "http://img09.deviantart.net/05fb/i/2008/093/a/7/math_logo_by_avidlebon.jpg",
     "occupation": "Engineer",
-    "location": "Earth"
+    "location": "Earth",
+    "selected": false
   },
   {
     "id": 12,
     "name": "Counting",
     "image": "https://thumbs.dreamstime.com/z/math-ball-sphere-numbers-addition-multiplication-d-data-to-illustrate-learning-accounting-mess-figures-36210265.jpg",
     "occupation": "Banker",
-    "location": "Wall Street"
+    "location": "Wall Street",
+    "selected": false
   }
 ]
