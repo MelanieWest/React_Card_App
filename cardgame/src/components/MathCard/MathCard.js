@@ -19,7 +19,7 @@ const MathCard = props => (
         </li>
       </ul>
     </div>
-    <span className="update" onClick={() => props.handleClick(props.key)}>𝘅</span>
+    <span className="update" onClick={() => props.handleItemClick(props.id)}>𝘅</span>
   </div>
 );
 
